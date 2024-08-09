@@ -45,8 +45,7 @@ body {
 
 
 .noticias-titulo{
-    padding: 100px 50;
-    color: #1a3506;
+    padding: 24px 30;
     align-items: center;
 }
 
@@ -129,7 +128,7 @@ body {
 }
 
 .rodape1{
-    background-color:#d4ead4;
+    background-color:#175717;
     text-align: center;
     font-size: 40px;
     padding: 100px 10px;
@@ -146,21 +145,22 @@ body {
     text-align: center;
 }
 
-.rodape-titulo{
-    padding: 50px 0;
-    color: rgb(219, 228, 218);
+.rodape2-titulo{
+    padding: 50px 100;
+    background-color:#2b782e8c;
     display: flex;
     justify-content: center;
 }
 .rodape-logo-insta{
-    width: 30px;
-    padding: 5px 10px;
+    width: 50px;
+    padding: 5px 14px;
 }
 .rodape-logo-facebook{
-    width: 50px;
+    width: 80px;
     padding: 5px 5px;
+    justify-content: center;
 }
 .rodape-logo-x{
-    width: 50px;
+    width: 80px;
     padding: 5px 5px;
 }
